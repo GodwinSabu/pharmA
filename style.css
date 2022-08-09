@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    font-family: 'Lato',sans-serif !important;;
+    font-family: 'Lato',sans-serif !important;
 }
 .body{
 width: 100%;
@@ -22,7 +22,7 @@ height: auto;
     float: left;
 }
 .mainbody{
-    background-image: url('/images/aurobindo-home-banner-1.jpg');
+    background-image: url('images/aurobindo-home-banner-1.jpg');
     background-repeat: no-repeat;
     height: 538px;
     width: 100%;
@@ -133,7 +133,7 @@ height: auto;
     margin-top: 50px;
 }
 .docter{
-    background-image: url('/images/robust-product-portfolio-1.jpg');
+    background-image: url('images/robust-product-portfolio-1.jpg');
     width: 380px;
     height: 292.83px;
     margin: 10px 0px 0px 290px ;
