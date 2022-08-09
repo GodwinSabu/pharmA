@@ -1,0 +1,161 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Lato',sans-serif !important;;
+}
+.body{
+width: 100%;
+height: auto;
+}
+.header{
+    width: 100%;
+    height: 100px;
+}
+.logo1{
+    padding-top: 14px;
+}
+.logo{
+    width: 190px;
+    height: 100px;
+    margin-left: 90px;
+    margin-bottom: 10px;
+    float: left;
+}
+.mainbody{
+    background-image: url('/images/aurobindo-home-banner-1.jpg');
+    background-repeat: no-repeat;
+    height: 538px;
+    width: 100%;
+}
+.navmenu{
+    margin-left: 500px;
+    padding-top: 40px;
+    }
+.navmenu li{
+    list-style: none;
+    float: left;
+    text-align: center;
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.space1{
+    height: 40px;
+    width: 100%;
+}
+.secondimage{
+    margin-left: 100px;
+    width: 200px;
+    height: 334px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.bluebox{
+    width: 200px;
+    height: 290px;
+    background-color: #325194;
+    margin-top: -260px;
+}
+.sub1{
+    width: 50%;
+    height: auto;
+    float:left ;
+}
+.paracontent{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.box{
+    margin-left: 510px;
+    color: #fff;
+}
+.right2{
+    width: 500px;
+    float: left;
+    margin-top: -340px;
+    margin-left: 720px;
+    opacity: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+.fully{
+    float: left;
+    margin-left: 720px;
+    line-height: 30px;
+    margin-top: -280px;
+}
+.btn1{
+    margin-top: 290px;
+    margin-left: 45px;
+    width: 4.30cm;
+    height: 1cm;
+    background: transparent;
+    border-color: blue;
+    color: blue;
+    opacity: 80%;
+}
+.body3{
+    width: 100%;
+    height: 375px;
+}
+.b3sub1{
+    width: 50%;
+    height: 375px;
+    float: left;
+    /* background-color: rgb(77, 128, 172); */
+    text-align: right;
+}
+.b3sub2{
+    float: left;
+    width: 50%;
+    height: 375px;
+    /* background-color: aqua; */
+}
+.btn2{
+    margin-top: 100px;
+    margin-left: 45px;
+    width: 4.30cm;
+    height: 1cm;
+    border-color: blue;
+    color: blue;
+    opacity: 80%;
+}
+.bluebox2{
+    float: left;
+    width: 200px;
+    height: 305px;
+    margin-left: 50px;
+    background-color: #53B3A7;
+    padding-left: 20px;
+}
+.bluebox2 h1{
+    margin-top: 50px;
+}
+.docter{
+    background-image: url('/images/robust-product-portfolio-1.jpg');
+    width: 380px;
+    height: 292.83px;
+    margin: 10px 0px 0px 290px ;
+}
+.footer{
+    width: 100%;
+    height: 60px;
+    background-color: #1e1e1e;
+    padding-bottom: 20px;
+    color: #fff;
+    font-size: 12px;
+}
+.copy{
+  float: left; 
+}
+.privacy{
+    float: left;
+    border-right: 1px solid #fff;
+    margin-right: 5px;
+    padding-right: 5px;
+    margin-left: 800px;
+}
+.site{
+    float: left;
+}
